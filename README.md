@@ -17,7 +17,7 @@ I'm a passionate developer who loves building things. I enjoy exploring new tech
 - **Currently learning**: Rust
 
 ## 🎮 Current side projects
-- **A Slime in the Dark**: A platformer featuring a trapped slime.
+- **A Slime in the Dark**: A memory platformer featuring a slime.
 
 ## 📫 Let's connect!
 - **GitHub**: [You're here!](https://github.com/Coleim/)
