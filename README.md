@@ -37,3 +37,12 @@ I'm a passionate developer who loves building things. I enjoy exploring new tech
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coleim&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
 </div>
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Coleim&theme=dark)](https://git.io/streak-stats)
+
+![GitHub Snake](https://github.com/Coleim/Coleim/blob/output/github-contribution-grid-snake.svg)
+
+
