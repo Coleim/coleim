@@ -2,43 +2,30 @@
 
 I'm a passionate developer who loves building things. I enjoy exploring new technologies along the way.
 
-## 🔭 What I'm working on 🔭
-- **Games**: Developing a short memory platformer game.
+
+## Let's connect!
+<a href="https://www.linkedin.com/in/clement-oliva/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3078ceee-48fb-4e56-9b97-e9114ffec966" alt="linkedin" height="30"/></a>
+<a href="https://www.youtube.com/@Coleim" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a9b759e0-3803-461a-b1ac-94930961434d" alt="youtube" height="30"/></a>
+<a href="https://www.instagram.com/clementoliva" target="blank"><img align="center" src="https://github.com/user-attachments/assets/797024b3-bce6-47f9-9c6d-31bb63507805" alt="instagram" height="30"/></a>
+<a href="https://x.com/coleim_ninja" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4132bcde-55d1-4d4f-835e-6eaf385d22a9" alt="x" height="30"/></a>
+
+
+## Contributions
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coleim&show_icons=true&locale=en" alt="Coleim" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coleim&show_icons=true&locale=en&layout=compact" alt="Coleim" />
+
+## 🔭 What I'm working on
 - **Frontend & UI**: Angular @work.
+- **Games**: Developing a short memory platformer game - A Slime In The Dark
 - **Developer Advocacy**: Running a Developer Advocate program @work.
 - **Content Creation**: Making educational programming videos.
 
-## 🌱  Tech I use & explore
+## 🌱  Tech
 - **Languages**: TypeScript, JavaScript, C++
 - **Game Dev**: Godot, PixiJS
 - **Frontend**: Angular
 - **Mobile**: Android Kotlin
 - **Tooling**: Neovim (Lazy.nvim), Expo Go, Cordova
-- **Currently learning**: Rust
 
-## 🎮 Current side projects
-- **A Slime in the Dark**: A memory platformer featuring a slime.
-
-## 📫 Let's connect!
-- **GitHub**: [You're here!](https://github.com/Coleim/)
-- **YouTube**: [Coleim Dev Chronicles](https://www.youtube.com/@Coleim)
-- **Twitter/X**: [@coleim_ninja](https://x.com/coleim_ninja)
-
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Coleim/count.svg" alt="Visitor's Count" />
-</div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Coleim&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Coleim's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coleim&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=5&border_radius=10&show_icons=true&locale=en" alt="Coleim's Most Used Languages" />
-</div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coleim&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
-</div>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
