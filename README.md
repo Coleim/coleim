@@ -7,6 +7,11 @@ I’m a senior fullstack developer and frontend architect working in Developer R
 📺 I also run a 100% tech YouTube channel where I share insights, experiments, and dev tools:
 [@Coleim on YouTube](https://www.youtube.com/@Coleim)
 
+
+*I build tools, games, and experiments that make dev work more engaging—and sometimes weirdly fun.*
+
+
+
 ---
 
 ## 🛠️ Completed Side Projects
@@ -28,9 +33,6 @@ Type code that appears one character at a time for tutorials, live demos.
 ### 💰 [Capitaine Finance](https://capitaine-finance.onrender.com/)
 
 ---
-
-*I build tools, games, and experiments that make dev work more engaging—and sometimes weirdly fun.*
-
 
 
 ## 💬 Let’s Connect
