@@ -1,9 +1,40 @@
-# Hi there! 👋
+# 👋 Hi, I’m Clément Oliva — aka @Coleim
 
-I'm a passionate developer who loves building things. I enjoy exploring new technologies along the way.
+🎮 Developer. Architect. Advocate. Storyteller.
+
+I’m a senior fullstack developer and frontend architect working in Developer Relations at Amadeus. I love building elegant frontend systems, scaling dev experience across teams, and exploring the intersection between code, creativity, and teaching.
+
+📺 I also run a 100% tech YouTube channel where I share insights, experiments, and dev tools:
+[@Coleim on YouTube](https://www.youtube.com/@Coleim)
+
+---
+
+## 🛠️ Completed Side Projects
+
+Here are some of the small tools and experiments I've built recently. They're live, fun to play with, and always open to feedback!
+
+### 🎹 [Sound of Math](https://sound-of-math.onrender.com/)
+A playful visualization that turns math equations into sound waves.
+
+> *Built with React and the Web Audio API.*
+
+---
+
+### ⌨️ [Online Code Typewriter](https://online-code-typewriter.onrender.com/)
+Type code that appears one character at a time for tutorials, live demos.
+
+---
+
+### 💰 [Capitaine Finance](https://capitaine-finance.onrender.com/)
+
+---
+
+*I build tools, games, and experiments that make dev work more engaging—and sometimes weirdly fun.*
 
 
-## Let's connect!
+
+## 💬 Let’s Connect
+
 <a href="https://www.linkedin.com/in/clement-oliva/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3078ceee-48fb-4e56-9b97-e9114ffec966" alt="linkedin" height="30"/></a>
 <a href="https://www.youtube.com/@Coleim" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a9b759e0-3803-461a-b1ac-94930961434d" alt="youtube" height="30"/></a>
 <a href="https://www.instagram.com/clementoliva" target="blank"><img align="center" src="https://github.com/user-attachments/assets/797024b3-bce6-47f9-9c6d-31bb63507805" alt="instagram" height="30"/></a>
