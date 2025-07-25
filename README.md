@@ -27,6 +27,7 @@ A playful visualization that turns math equations into sound waves.
 
 ### ⌨️ [Online Code Typewriter](https://online-code-typewriter.onrender.com/)
 Type code that appears one character at a time for tutorials, live demos.
+> *Svelte for the win !*
 
 ---
 
