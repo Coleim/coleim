@@ -18,14 +18,14 @@ I’m a senior fullstack developer and frontend architect working in Developer R
 
 Here are some of the small tools and experiments I've built recently. They're live, fun to play with, and always open to feedback!
 
-### 🎹 [Sound of Math](https://sound-of-math.onrender.com/)
+### 🎹 [Sound of Math](https://sound-of-math.onrender.com/) [React]
 A playful visualization that turns math equations into sound waves.
 
 > *Built with React and the Web Audio API.*
 
 ---
 
-### ⌨️ [Online Code Typewriter](https://online-code-typewriter.onrender.com/)
+### ⌨️ [Online Code Typewriter](https://online-code-typewriter.onrender.com/) [Svelte]
 Type code that appears one character at a time for tutorials, live demos.
 > *Svelte for the win !*
 
