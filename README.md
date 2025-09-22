@@ -31,9 +31,14 @@ Type code that appears one character at a time for tutorials, live demos.
 
 ---
 
-### 💰 [Capitaine Finance](https://capitaine-finance.onrender.com/)
+
+<!--- 
+
+### 💰 [Capitaine Finance](https://capitaine-finance.onrender.com/) 
 
 ---
+
+--->
 
 
 ## 💬 Let’s Connect
