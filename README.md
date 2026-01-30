@@ -15,9 +15,11 @@ I'm a senior fullstack developer and frontend architect working in Developer Rel
 ## 🛠️ (Almost) Completed Side Projects
 Here are some of the small tools and experiments I've built recently. They're live, fun to play with, and always open to feedback!
 
-### 🎹 [Sound of Math](https://sound-of-math.onrender.com/) [React]
-A playful visualization that turns math equations into sound waves.
-> *Built with React and the Web Audio API.*
+---
+
+### 🏷️ [Pick and Tag](https://pickandtag.onrender.com/) [React Native/Expo]
+A mobile app to organize and tag your photos with ease.
+> *Available on [Google Play](https://play.google.com/store/apps/details?id=com.coleim.pickandtag) | [Source Code](https://github.com/Coleim/pickandtag)*
 
 ---
 
@@ -27,15 +29,16 @@ Type code that appears one character at a time for tutorials, live demos.
 
 ---
 
-### 🏷️ [Pick and Tag](https://pickandtag.onrender.com/) [React Native/Expo]
-A mobile app to organize and tag your photos with ease.
-> *Available on [Google Play](https://play.google.com/store/apps/details?id=com.coleim.pickandtag) | [Source Code](https://github.com/Coleim/pickandtag)*
+### 🎹 [Sound of Math](https://sound-of-math.onrender.com/) [React]
+A playful visualization that turns math equations into sound waves.
+> *Built with React and the Web Audio API.*
 
 ---
 
 ## 🚧 Ongoing Side Projects
 - **Dodge Ball Game**: A fast-paced arcade game
 - **Game Boy Emulator**: Building an emulator in Rust
+- **Cahier de Presence**: A Vibe-coded mobile app for registering attendance in classes.
 
 ---
 
