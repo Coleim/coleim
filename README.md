@@ -24,7 +24,7 @@ A mobile app to organize and tag your photos with ease.
 
 ---
 
-### [Dodgeball Arena ]([https://online-code-typewriter.onrender.com/](https://katsuo-bushi-studio.itch.io/dodgeball-arena)) [Unity]
+### [Dodgeball Arena ](https://katsuo-bushi-studio.itch.io/dodgeball-arena) [Unity]
 A fast-paced, 2D arcade-style dodgeball game where you face off against AI opponents in intense matches.
 > *Available on [itch.io](https://katsuo-bushi-studio.itch.io/dodgeball-arena)*
 
