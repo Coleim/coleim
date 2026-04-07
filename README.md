@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Clément Oliva — aka @Coleim
-🎮 Developer. Architect. Advocate. Storyteller.
+Senior Developer. Architect. Advocate. Storyteller.
 I'm a senior fullstack developer and frontend architect working in Developer Relations at Amadeus. I love building elegant frontend systems, scaling dev experience across teams, and exploring the intersection between code, creativity, and teaching.
 
-📺 I also run a 100% tech YouTube channel where I share insights, experiments, and dev tools:
-[@Coleim on YouTube](https://www.youtube.com/@Coleim)
-
-🎮 I stream coding sessions, game dev, and tech experiments on Twitch:
+I stream coding sessions, game dev, and tech experiments on Twitch:
 [@colleim on Twitch](https://www.twitch.tv/colleim)
+
+
+I also run a Tech YouTube channel where I share insights, experiments, and dev tools:
+[@Coleim on YouTube](https://www.youtube.com/@Coleim)
 
 *I build tools, games, and experiments that make dev work more engaging—and sometimes weirdly fun.*
 
 ---
 
 ## Side Projects
-Here are some of the small tools and experiments I've built recently. They're live, fun to play with, and always open to feedback!
+Here are some of the small tools and experiments I've built recently.
 
 ---
 
@@ -65,14 +66,11 @@ Des flashcards pour apprendre le Japonais.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coleim&show_icons=true&locale=en&layout=compact" alt="Coleim" />
 
 ## 🔭 What I'm working on
-- **Frontend & UI**: Angular @work.
-- **Games**: Developing a short memory platformer game - A Slime In The Dark
-- **Developer Advocacy**: Running a Developer Advocate program @work.
-- **Content Creation**: Making educational programming videos.
+- **Frontend & UI**: Angular @work, React @home
+- **Learning**: Rust @home
 
 ## 🌱  Tech
 - **Languages**: TypeScript, JavaScript, C++, Rust
-- **Game Dev**: Godot, PixiJS
-- **Frontend**: Angular
+- **Frontend**: Angular, React
 - **Mobile**: Android Kotlin, React Native
-- **Tooling**: Neovim (Lazy.nvim), Expo Go, Cordova
+- **Misc**: Neovim
