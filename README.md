@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Clément Oliva — aka @Coleim
-Senior Developer. Architect. Advocate. Storyteller.
-I'm a senior fullstack developer and frontend architect working in Developer Relations at Amadeus. I love building elegant frontend systems, scaling dev experience across teams, and exploring the intersection between code, creativity, and teaching.
+Principal Engineer. Advocate. Storyteller.
+
+I'm a Principal Fullstack Engineer working @Amadeus. 
+
+I love building elegant frontend systems, scaling dev experience across teams, and exploring the intersection between code, creativity, and teaching.
 
 I stream coding sessions, game dev, and tech experiments on Twitch:
 [@colleim on Twitch](https://www.twitch.tv/colleim)
@@ -15,6 +18,18 @@ I also run a Tech YouTube channel where I share insights, experiments, and dev t
 
 ## Side Projects
 Here are some of the small tools and experiments I've built recently.
+
+---
+
+### [Crabby Boy](https://github.com/Coleim/crabby-boy) [Rust]
+A blazzingly fast gameboy emulator.
+> *On going*
+
+---
+
+### [Cut Down](https://cle-rouge.itch.io/cut-down) [Godot]
+My first game ! Check it out !
+> *On going*
 
 ---
 
@@ -66,11 +81,11 @@ Des flashcards pour apprendre le Japonais.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Coleim&show_icons=true&locale=en&layout=compact" alt="Coleim" />
 
 ## 🔭 What I'm working on
-- **Frontend & UI**: Angular @work, React @home
+- **Frontend & UI**: React @home
 - **Learning**: Rust @home
 
 ## 🌱  Tech
 - **Languages**: TypeScript, JavaScript, C++, Rust
 - **Frontend**: Angular, React
 - **Mobile**: Android Kotlin, React Native
-- **Misc**: Neovim
+- **Misc**: Neovim by the way
