@@ -33,6 +33,12 @@ My first game ! Check it out !
 
 ---
 
+### [RE9 Inventory Crack](https://github.com/Coleim/re9-inventory-crack) [Rust]
+Decrypt, inspect, and re-encrypt Resident Evil Requiem ("RE9") DSSS save files.
+> *Reverse-engineering experiment*
+
+---
+
 ### [Pick and Tag](https://pickandtag.onrender.com/) [React Native/Expo]
 A mobile app to organize and tag your photos with ease.
 > *Available on [Google Play](https://play.google.com/store/apps/details?id=com.coleim.pickandtag) | [Source Code](https://github.com/Coleim/pickandtag)*
